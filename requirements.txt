@@ -1,4 +1,4 @@
 # Python 3.10+ required
 requests==2.31.0
-Django==2.2.0
+Django==4.2.16
 flask==2.2.5
